@@ -1,9 +1,7 @@
 What is XNU?
 ===========
 
-XNU kernel is part of the Darwin operating system for use in macOS and iOS operating systems. XNU is an acronym for X is Not Unix.
-XNU is a hybrid kernel combining the Mach kernel developed at Carnegie Mellon University with components from FreeBSD and a C++ API for writing drivers called IOKit.
-XNU runs on x86_64 for both single processor and multi-processor configurations.
+XNU is a hybrid kernel that is used in the macOS and iOS operating systems. It stands for X is Not Unix and combines the Mach kernel from Carnegie Mellon University with components from FreeBSD. It has a C++ API called IOKit for writing drivers and runs on both single and multi-processor configurations for x86_64 processors.
 
 XNU Source Tree
 ===============
